@@ -1,5 +1,5 @@
-##yt-clone 
-###skills
+## yt-clone 
+### skills
 FE: next.js, typescript, tailwind-css <br/>
 BE:sanity
 
