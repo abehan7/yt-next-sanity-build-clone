@@ -1,7 +1,8 @@
-## yt-clone 
+## yt-clone sonnny sungha
 ### skills
 FE: next.js, typescript, tailwind-css <br/>
-BE:sanity
+BE:sanity <br/>
+yt-address : https://www.youtube.com/watch?v=I2dcpatq54o&t=25s
 
 
 
